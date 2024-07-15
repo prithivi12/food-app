@@ -61,4 +61,8 @@
   padding: 6px;
   border-radius: 50px;
   background-color: white;
+
+  img {
+    width: 30px;
+  }
 }
